@@ -51,7 +51,7 @@ app.put('/image', profile.incrementEntries(db))
 
 const PORT = process.env.PORT
 
-app.listen(3000, () => {
+app.listen(process.env.PORT, () => {
     console.log(`App is running on port ${PORT}`)
 })
 
