@@ -15,7 +15,7 @@ const handleRegister = (db, bcrypt) => (req, res) => {
                     .returning('*')
                     .insert({
                         name: name,
-                        email: loginEmail[0],
+                        email: loginEmail[0].email,
                         joined: new Date()
                     })
                     .then(user => {
@@ -24,7 +24,7 @@ const handleRegister = (db, bcrypt) => (req, res) => {
             })
             .then(trx.commit)
             .catch(trx.rollback)
-        }).catch(err => res.status(400).json("Registration failed - please try again"))
+        }).catch(err => res.status(400).json("Registration failed - please try again", err))
         
     } else {
         res.status(400).json("Registration failed - please try again")
