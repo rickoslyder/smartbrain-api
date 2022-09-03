@@ -4,7 +4,7 @@ const handleSignIn = (db, bcrypt) => (req, res) => {
         res.status(400).json("Incorrect form submission - please try again")
     }
     db.transaction(trx => {
-        trx.select('email','hash').from('login').where('email', '=', email)
+        trx.select('email','hash').from('logins').where('email', '=', email)
         .then(data => {
             bcrypt.compare(password, data[0].hash, (err, resp) => {
                 if (err) {

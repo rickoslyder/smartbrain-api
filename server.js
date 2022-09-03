@@ -8,12 +8,15 @@ const register = require('./controllers/register')
 const signIn = require('./controllers/signin')
 const profile = require('./controllers/profile')
 const image = require('./controllers/image.js')
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0; 
 
 const db = knex({
     client: 'pg',
     connection: {
-      connectionString : process.env.DATABASE_URL,
-      ssl: true
+      connectionString : process.env.DATABASE_URL || 'postgres://aymgfmaztusgxh:cf60433af09f773e0d3a78ebc7c20e0c96dd107572d3ea654f230379a755d3e9@ec2-54-77-40-202.eu-west-1.compute.amazonaws.com:5432/dbkpcaf6qbd5s7',
+      ssl: {
+        rejectUnauthorized: false
+      }
     }
   });
 

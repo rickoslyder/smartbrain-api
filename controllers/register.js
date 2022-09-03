@@ -8,7 +8,7 @@ const handleRegister = (db, bcrypt) => (req, res) => {
                 hash: hash,
                 email: email
             })
-            .into('login')
+            .into('logins')
             .returning('email')
             .then(loginEmail => {
                 return trx('users')
