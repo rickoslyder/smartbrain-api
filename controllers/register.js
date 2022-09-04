@@ -4,6 +4,9 @@ const handleRegister = (db, bcrypt) => (req, res) => {
         const { name, email, password } = req.body
         const hash = bcrypt.hashSync(password)
         db.transaction(trx => {
+            if (trx.select('*').from('users').where("email",'=',email)) {
+                return res.status(400).json(`Email ${email} already exists`)
+            }
             trx.insert({
                 hash: hash,
                 email: email
