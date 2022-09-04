@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 
 const USER_ID = 'localblackguy';
 // Your PAT (Personal Access Token) can be found in the portal under Authentication
-const PAT = '2c8697350ea7401b889eea81bf05c715';
+const PAT = process.env.API_KEY_CLARIFAI;
 const APP_ID = 'my-first-application';
 // Change these to whatever model and image URL you want to use
 const MODEL_ID = 'face-detection';
