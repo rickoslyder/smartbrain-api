@@ -3,12 +3,23 @@ const bcrypt = require('bcrypt-nodejs')
 const cors = require('cors');
 const pg = require('pg')
 const knex = require('knex')
+const helmet = require('helmet')
+const winston = require('winston')
 
 const register = require('./controllers/register')
 const signIn = require('./controllers/signin')
 const profile = require('./controllers/profile')
 const image = require('./controllers/image.js')
 // process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0; 
+
+const logger = winston.createLogger({
+  level: 'info',
+  format: winston.format.json(),
+  transports: [
+    new winston.transports.Console(),
+    new winston.transports.File({ filename: 'logfile.log' })
+  ]
+});
 
 const db = knex({
     client: 'pg',
@@ -24,7 +35,8 @@ const app = express()
 
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
-app.use(cors())
+app.use(cors());
+app.use(helmet())
 
 app.get('/', (req, res) => { res.send('success') })
 

@@ -1,4 +1,14 @@
 const fetch = require("node-fetch");
+const winston = require('winston');
+
+const logger = winston.createLogger({
+    level: 'info',
+    format: winston.format.json(),
+    transports: [
+      new winston.transports.Console(),
+      new winston.transports.File({ filename: 'logfile.log' })
+    ]
+  });
 
 const USER_ID = 'localblackguy';
 // Your PAT (Personal Access Token) can be found in the portal under Authentication
@@ -39,11 +49,16 @@ const handleFaceDetectApiCall = () => (req, res) => {
     .then(response => response.json())
     .then(response => {
         if (response) {
+            logger.info(`Face detected - image url = ${IMAGE_URL}`);
             res.json(response)
         } else {
+            logger.error(`API Error: Call to Face Detection model ${MODEL_ID} failed`);
             res.json("Backend error: Face detection failed - please try again")
         }
-    }).catch(err => res.json("Backend error: Face detection failed - please try again"))
+    }).catch(err => {
+        logger.error(`Face detection failed - Error: ${err}`)
+        res.json("Backend error: Face detection failed - please try again");
+})
 }
 
 module.exports = {
