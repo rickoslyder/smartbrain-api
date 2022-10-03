@@ -20,7 +20,7 @@ const getProfile = (db) => (req, res) => {
             logger.error(`Attempt to fetch user ${id} failed - no results found`)
             res.status(400).json(`User id ${id} does not exist - please try again`)
         }
-    }).catch(err => res.status(404).json(`Error retrieving user`, id))
+    }).catch(err => res.status(400).json(`Error retrieving user`, id))
 }
 
 const incrementEntries = (db) => (req, res) => {

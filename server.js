@@ -5,6 +5,7 @@ const pg = require('pg')
 const knex = require('knex')
 const helmet = require('helmet')
 const winston = require('winston')
+const morgan = require('morgan')
 
 const register = require('./controllers/register')
 const signIn = require('./controllers/signin')
@@ -33,6 +34,7 @@ const db = knex({
 
 const app = express()
 
+app.use(morgan('combined'))
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 app.use(cors());
@@ -49,7 +51,6 @@ app.get('/profile/:id', profile.getProfile(db))
 app.post('/facedetect', image.handleFaceDetectApiCall())
 
 app.put('/image', profile.incrementEntries(db))
-
 
 /*
 / --> res = this is working
