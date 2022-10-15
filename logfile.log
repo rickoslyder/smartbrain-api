@@ -73,3 +73,594 @@
 {"level":"info","message":"Face detected - image url = https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/GettyImages-1092658864_hero-1024x575.jpg?w=1155&h=1528"}
 {"level":"info","message":"Face detected - image url = https://www.facebeautyscience.com/wp-content/uploads/2020/04/face-beauty-skin-face2-proc.jpg"}
 {"level":"info","message":"User id 3 entries successfully - 16"}
+{"level":"info","message":"Face detected - image url = https://www.facebeautyscience.com/wp-content/uploads/2020/04/face-beauty-skin-face2-proc.jpg"}
+{"level":"info","message":"Successfully updated user id 3 entries count - 17"}
+{"level":"info","message":"Face detected - image url = https://www.facebeautyscience.com/wp-content/uploads/2020/04/face-beauty-skin-face2-proc.jpg"}
+{"level":"info","message":"Successfully updated user id 3 entries count - 18"}
+{"level":"info","message":"Face detected - image url = https://thumbs.dreamstime.com/b/winning-business-people-team-holding-thumbs-up-cheering-many-77985667.jpg"}
+{"level":"info","message":"Successfully updated user id 3 entries count - 19"}
+{"level":"info","message":"Face detected - image url = https://thumbs.dreamstime.com/b/winning-business-people-team-holding-thumbs-up-cheering-many-77985667.jpg"}
+{"level":"info","message":"Successfully updated user id 3 entries count - 20"}
+{"level":"info","message":"Successfully fetched profile for user id 1"}
+{"level":"error","message":"Profile update failed - no user ID was specified}"}
+{"level":"info","message":"Successfully updated profile for user id 1"}
+{"level":"error","message":"Profile update failed - no user ID was specified}"}
+{"level":"info","message":"Successfully updated profile for user id 1"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4Njc0NCwiZXhwIjoxNjY1OTU5NTQ0fQ.X_ZMU6-K7htIpsxg-XoRKK2KalVJ4VQoTgkrcHIv_A0"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4Njc0NCwiZXhwIjoxNjY1OTU5NTQ0fQ.X_ZMU6-K7htIpsxg-XoRKK2KalVJ4VQoTgkrcHIv_A0"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4Njc0NCwiZXhwIjoxNjY1OTU5NTQ0fQ.X_ZMU6-K7htIpsxg-XoRKK2KalVJ4VQoTgkrcHIv_A0"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4Njc0NCwiZXhwIjoxNjY1OTU5NTQ0fQ.X_ZMU6-K7htIpsxg-XoRKK2KalVJ4VQoTgkrcHIv_A0"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"error"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"error"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4ODM2NCwiZXhwIjoxNjY1OTYxMTY0fQ.ybT0S90GwN1M9hQ-8hOVWx6GtPjcRZBBBhRQQXXAgzg"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTQwMSwiZXhwIjoxNjY1OTYyMjAxfQ.YuZ6mMa7mq2jRoDY9Sm-CDAkRTtXgXrYJt5nGZ7f9DE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTQwMSwiZXhwIjoxNjY1OTYyMjAxfQ.YuZ6mMa7mq2jRoDY9Sm-CDAkRTtXgXrYJt5nGZ7f9DE"}
+{"level":"error"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTQwMSwiZXhwIjoxNjY1OTYyMjAxfQ.YuZ6mMa7mq2jRoDY9Sm-CDAkRTtXgXrYJt5nGZ7f9DE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTQwMSwiZXhwIjoxNjY1OTYyMjAxfQ.YuZ6mMa7mq2jRoDY9Sm-CDAkRTtXgXrYJt5nGZ7f9DE"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTU0NywiZXhwIjoxNjY1OTYyMzQ3fQ.WhVOwVisBAtXcsr9uFQYZaK9VcqEGhagKvWMUIJfc4Y"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTU0NywiZXhwIjoxNjY1OTYyMzQ3fQ.WhVOwVisBAtXcsr9uFQYZaK9VcqEGhagKvWMUIJfc4Y"}
+{"level":"error"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTU0NywiZXhwIjoxNjY1OTYyMzQ3fQ.WhVOwVisBAtXcsr9uFQYZaK9VcqEGhagKvWMUIJfc4Y"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTU0NywiZXhwIjoxNjY1OTYyMzQ3fQ.WhVOwVisBAtXcsr9uFQYZaK9VcqEGhagKvWMUIJfc4Y"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"error","message":"failed to grab token's id from redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTY5NywiZXhwIjoxNjY1OTYyNDk3fQ.2qma-74MAEt5uHp_NlU-nc3ByKJO6ooWMOimuYl04V8"}
+{"level":"error","message":"failed to grab token's id from redis - Error: Socket already opened"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"error","message":"failed to grab token's id from redis - Error: Socket already opened"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"error","message":"failed to grab token's id from redis - Error: Socket already opened"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"connected to redis"}
+{"level":"error","message":"failed to grab token's id from redis - Error: The client is closed"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc4OTk5NywiZXhwIjoxNjY1OTYyNzk3fQ.hfuQr9r-L6mf79MDKPUHdnZYEvUnXjDfFA8a3XTk2yY"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error"}
+{"level":"info","message":"no existing session"}
+{"level":"error","message":"error - Error: The client is closed"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MDgyMSwiZXhwIjoxNjY1OTYzNjIxfQ.pt6s5KR9XzATLwh2T0rlvV1wArPpWVM3vlv6RlvoLLY"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTY3MywiZXhwIjoxNjY1OTY0NDczfQ.PYgGJWjRvm2GlF3ZyVA0239H9d77baAnnAiSG41hCBs"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTY3MywiZXhwIjoxNjY1OTY0NDczfQ.PYgGJWjRvm2GlF3ZyVA0239H9d77baAnnAiSG41hCBs"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTY3MywiZXhwIjoxNjY1OTY0NDczfQ.PYgGJWjRvm2GlF3ZyVA0239H9d77baAnnAiSG41hCBs"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTY3MywiZXhwIjoxNjY1OTY0NDczfQ.PYgGJWjRvm2GlF3ZyVA0239H9d77baAnnAiSG41hCBs"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTY3MywiZXhwIjoxNjY1OTY0NDczfQ.PYgGJWjRvm2GlF3ZyVA0239H9d77baAnnAiSG41hCBs"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTgyNCwiZXhwIjoxNjY1OTY0NjI0fQ.x1k5fb4Nv6TkeTtDWq86i5uYu8Zk9rlllZOUXXDAwXE"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTgyNCwiZXhwIjoxNjY1OTY0NjI0fQ.x1k5fb4Nv6TkeTtDWq86i5uYu8Zk9rlllZOUXXDAwXE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTgyNCwiZXhwIjoxNjY1OTY0NjI0fQ.x1k5fb4Nv6TkeTtDWq86i5uYu8Zk9rlllZOUXXDAwXE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTk0NiwiZXhwIjoxNjY1OTY0NzQ2fQ.m9BjtxN52GXZS9nY_qMpoQH8xjlQR8Avo6fFRWjTWRg"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTk0NiwiZXhwIjoxNjY1OTY0NzQ2fQ.m9BjtxN52GXZS9nY_qMpoQH8xjlQR8Avo6fFRWjTWRg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MTk0NiwiZXhwIjoxNjY1OTY0NzQ2fQ.m9BjtxN52GXZS9nY_qMpoQH8xjlQR8Avo6fFRWjTWRg"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjAyNywiZXhwIjoxNjY1OTY0ODI3fQ.gt56ftMn5hgpGYeM40jj0mt6L3FARkCRoJzcummGRAQ"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjAyNywiZXhwIjoxNjY1OTY0ODI3fQ.gt56ftMn5hgpGYeM40jj0mt6L3FARkCRoJzcummGRAQ"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjAyNywiZXhwIjoxNjY1OTY0ODI3fQ.gt56ftMn5hgpGYeM40jj0mt6L3FARkCRoJzcummGRAQ"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5Mzc4MiwiZXhwIjoxNjY1OTY2NTgyfQ.cv3Im9VfYxskb_2WvwUHSAoEFNnkTy9J6MeyQ6NpCLU"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5Mzc4MiwiZXhwIjoxNjY1OTY2NTgyfQ.cv3Im9VfYxskb_2WvwUHSAoEFNnkTy9J6MeyQ6NpCLU"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5Mzc4MiwiZXhwIjoxNjY1OTY2NTgyfQ.cv3Im9VfYxskb_2WvwUHSAoEFNnkTy9J6MeyQ6NpCLU"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5Mzc4MiwiZXhwIjoxNjY1OTY2NTgyfQ.cv3Im9VfYxskb_2WvwUHSAoEFNnkTy9J6MeyQ6NpCLU"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5Mzc4MiwiZXhwIjoxNjY1OTY2NTgyfQ.cv3Im9VfYxskb_2WvwUHSAoEFNnkTy9J6MeyQ6NpCLU"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NDMyMCwiZXhwIjoxNjY1OTY3MTIwfQ.khAoVGmKqHUoJQjh3qRfUSdNN42ly4fYxGC0wapWUVU"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Face detected - image url = https://images.newscientist.com/wp-content/uploads/2022/02/14174128/PRI_223554170.jpg?crop=4:3,smart&width=1200&height=900&upscale=true"}
+{"level":"info","message":"Successfully updated user id 3 entries count - 21"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NDkwNSwiZXhwIjoxNjY1OTY3NzA1fQ.2bEy53zk3NNIIuE_2CTkpl03y6whoCk4_AkodVjQh8A"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NDkwNSwiZXhwIjoxNjY1OTY3NzA1fQ.2bEy53zk3NNIIuE_2CTkpl03y6whoCk4_AkodVjQh8A"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NDkwNSwiZXhwIjoxNjY1OTY3NzA1fQ.2bEy53zk3NNIIuE_2CTkpl03y6whoCk4_AkodVjQh8A"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NTExOCwiZXhwIjoxNjY1OTY3OTE4fQ.HxSi78E6a1HheAa3FaJCCRG8Lmqm2KOIbhSIcYQ6S5E"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NTUyMiwiZXhwIjoxNjY1OTY4MzIyfQ.UfXmOyJD1_6KU1lDqxpDBU4FfCZ-l8ytjqAo3rtV4nI"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NTUyMiwiZXhwIjoxNjY1OTY4MzIyfQ.UfXmOyJD1_6KU1lDqxpDBU4FfCZ-l8ytjqAo3rtV4nI"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NTUyMiwiZXhwIjoxNjY1OTY4MzIyfQ.UfXmOyJD1_6KU1lDqxpDBU4FfCZ-l8ytjqAo3rtV4nI"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5NjY3NiwiZXhwIjoxNjY1OTY5NDc2fQ.UiH5krrUNloFthFKQ4xAxOIXVhYLb_6Ax5OgOXiieJk"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5Njg3NywiZXhwIjoxNjY1OTY5Njc3fQ._BfblPDUzMPzSDyC4EAb6mqI486KWqa0Pvw4zLxA4dU"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Registration attempt failed - Email rickoslyder+1@gmail.com already exists"}
+{"level":"info","message":"Registration attempt failed - Email rickoslyder@gmail.comm already exists"}
+{"level":"info","message":"Registration attempt failed - Email rickoslyder@gmail.comm already exists"}
+{"level":"info","message":"Registration attempt failed - Email a@a.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":{"_asColumnFlag":false,"_boolFlag":"and","_events":{},"_eventsCount":0,"_joinFlag":"inner","_method":"select","_notFlag":false,"_single":{"only":false,"table":"users"},"_statements":[{"grouping":"columns","value":["*"]},{"asColumn":false,"bool":"and","column":"email","grouping":"where","not":false,"operator":"=","type":"whereBasic","value":"a@a.com"}],"and":"[Circular]","client":{"_events":{"query":[null,null],"query-error":[null,null],"query-response":[null,null],"start":[null,null]},"_eventsCount":4,"config":{"client":"pg","connection":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}}},"connectionSettings":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}},"driver":{"_pools":[],"defaults":{"binary":false,"client_encoding":"","connect_timeout":0,"host":"localhost","idleTimeoutMillis":30000,"idle_in_transaction_session_timeout":false,"keepalives":1,"keepalives_idle":0,"lock_timeout":false,"max":10,"parseInputDatesAsUTC":false,"password":null,"port":5432,"query_timeout":false,"rows":0,"ssl":false,"statement_timeout":false},"types":{"arrayParser":{},"builtins":{"ABSTIME":702,"ACLITEM":1033,"BIT":1560,"BOOL":16,"BPCHAR":1042,"BYTEA":17,"CHAR":18,"CID":29,"CIDR":650,"CIRCLE":718,"DATE":1082,"FLOAT4":700,"FLOAT8":701,"GTSVECTOR":3642,"INET":869,"INT2":21,"INT4":23,"INT8":20,"INTERVAL":1186,"JSON":114,"JSONB":3802,"MACADDR":829,"MACADDR8":774,"MONEY":790,"NUMERIC":1700,"OID":26,"PATH":602,"PG_DEPENDENCIES":3402,"PG_LSN":3220,"PG_NDISTINCT":3361,"PG_NODE_TREE":194,"POLYGON":604,"REFCURSOR":1790,"REGCLASS":2205,"REGCONFIG":3734,"REGDICTIONARY":3769,"REGNAMESPACE":4089,"REGOPER":2203,"REGOPERATOR":2204,"REGPROC":24,"REGPROCEDURE":2202,"REGROLE":4096,"REGTYPE":2206,"RELTIME":703,"SMGR":210,"TEXT":25,"TID":27,"TIME":1083,"TIMESTAMP":1114,"TIMESTAMPTZ":1184,"TIMETZ":1266,"TINTERVAL":704,"TSQUERY":3615,"TSVECTOR":3614,"TXID_SNAPSHOT":2970,"UUID":2950,"VARBIT":1562,"VARCHAR":1043,"XID":28,"XML":142}}},"logger":{"_inspectionDepth":5},"transacting":true,"valueForUndefined":{"_events":{},"_eventsCount":0,"client":{"_events":{},"_eventsCount":4,"config":{"client":"pg","connection":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}}},"connectionConfigExpirationChecker":null,"connectionSettings":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}},"driver":{"_pools":[],"defaults":{"binary":false,"client_encoding":"","connect_timeout":0,"host":"localhost","idleTimeoutMillis":30000,"idle_in_transaction_session_timeout":false,"keepalives":1,"keepalives_idle":0,"lock_timeout":false,"max":10,"parseInputDatesAsUTC":false,"password":null,"port":5432,"query_timeout":false,"rows":0,"ssl":false,"statement_timeout":false},"types":{"arrayParser":{},"builtins":{"ABSTIME":702,"ACLITEM":1033,"BIT":1560,"BOOL":16,"BPCHAR":1042,"BYTEA":17,"CHAR":18,"CID":29,"CIDR":650,"CIRCLE":718,"DATE":1082,"FLOAT4":700,"FLOAT8":701,"GTSVECTOR":3642,"INET":869,"INT2":21,"INT4":23,"INT8":20,"INTERVAL":1186,"JSON":114,"JSONB":3802,"MACADDR":829,"MACADDR8":774,"MONEY":790,"NUMERIC":1700,"OID":26,"PATH":602,"PG_DEPENDENCIES":3402,"PG_LSN":3220,"PG_NDISTINCT":3361,"PG_NODE_TREE":194,"POLYGON":604,"REFCURSOR":1790,"REGCLASS":2205,"REGCONFIG":3734,"REGDICTIONARY":3769,"REGNAMESPACE":4089,"REGOPER":2203,"REGOPERATOR":2204,"REGPROC":24,"REGPROCEDURE":2202,"REGROLE":4096,"REGTYPE":2206,"RELTIME":703,"SMGR":210,"TEXT":25,"TID":27,"TIME":1083,"TIMESTAMP":1114,"TIMESTAMPTZ":1184,"TIMETZ":1266,"TINTERVAL":704,"TSQUERY":3615,"TSVECTOR":3614,"TXID_SNAPSHOT":2970,"UUID":2950,"VARBIT":1562,"VARCHAR":1043,"XID":28,"XML":142}}},"logger":{"_inspectionDepth":5},"pool":{"acquireTimeoutMillis":60000,"createRetryIntervalMillis":200,"createTimeoutMillis":30000,"destroyTimeoutMillis":5000,"destroyed":false,"emitter":{"_events":{},"_eventsCount":0},"eventId":3,"free":[],"idleTimeoutMillis":30000,"interval":{"_destroyed":false,"_idleNext":{"_idleNext":"[Circular]","_idlePrev":"[Circular]","expiry":18171,"id":-9007199254740986,"msecs":1000,"priorityQueuePosition":1},"_idlePrev":{"_idleNext":"[Circular]","_idlePrev":"[Circular]","expiry":18171,"id":-9007199254740986,"msecs":1000,"priorityQueuePosition":1},"_idleStart":17171,"_idleTimeout":1000,"_repeat":1000},"max":10,"min":2,"pendingAcquires":[],"pendingCreates":[],"pendingDestroys":[],"pendingValidations":[],"propagateCreateError":true,"reapIntervalMillis":1000,"used":[{"deferred":{"promise":{}},"resource":{"__knexTxId":"trx1","__knexUid":"__knexUid2","_connected":true,"_connecting":false,"_connectionCallback":null,"_connectionError":false,"_connectionTimeoutMillis":0,"_ending":false,"_events":{},"_eventsCount":2,"_queryable":true,"_types":{"_types":{"arrayParser":{},"builtins":{"ABSTIME":702,"ACLITEM":1033,"BIT":1560,"BOOL":16,"BPCHAR":1042,"BYTEA":17,"CHAR":18,"CID":29,"CIDR":650,"CIRCLE":718,"DATE":1082,"FLOAT4":700,"FLOAT8":701,"GTSVECTOR":3642,"INET":869,"INT2":21,"INT4":23,"INT8":20,"INTERVAL":1186,"JSON":114,"JSONB":3802,"MACADDR":829,"MACADDR8":774,"MONEY":790,"NUMERIC":1700,"OID":26,"PATH":602,"PG_DEPENDENCIES":3402,"PG_LSN":3220,"PG_NDISTINCT":3361,"PG_NODE_TREE":194,"POLYGON":604,"REFCURSOR":1790,"REGCLASS":2205,"REGCONFIG":3734,"REGDICTIONARY":3769,"REGNAMESPACE":4089,"REGOPER":2203,"REGOPERATOR":2204,"REGPROC":24,"REGPROCEDURE":2202,"REGROLE":4096,"REGTYPE":2206,"RELTIME":703,"SMGR":210,"TEXT":25,"TID":27,"TIME":1083,"TIMESTAMP":1114,"TIMESTAMPTZ":1184,"TIMETZ":1266,"TINTERVAL":704,"TSQUERY":3615,"TSVECTOR":3614,"TXID_SNAPSHOT":2970,"UUID":2950,"VARBIT":1562,"VARCHAR":1043,"XID":28,"XML":142}},"binary":{},"text":{}},"activeQuery":null,"binary":false,"connection":{"_connecting":true,"_emitMessage":false,"_ending":false,"_events":{},"_eventsCount":23,"_keepAlive":false,"_keepAliveInitialDelayMillis":0,"lastBuffer":false,"parsedStatements":{},"ssl":{"rejectUnauthorized":false},"stream":{"_SNICallback":null,"_controlReleased":true,"_events":{"end":[null,null,null],"newListener":[null,null]},"_eventsCount":6,"_hadError":false,"_host":null,"_newSessionPending":false,"_parent":{"_events":{"error":[null,null]},"_eventsCount":4,"_hadError":false,"_host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","_parent":null,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":true,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":null,"_sockname":null,"_writableState":{"afterWriteTickInfo":null,"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":0,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":false,"connecting":false,"server":null},"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":true,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_rejectUnauthorized":false,"_requestCert":true,"_secureEstablished":true,"_securePending":false,"_server":null,"_sockname":null,"_tlsOptions":{"isServer":false,"pipe":false,"rejectUnauthorized":false,"requestCert":true,"secureContext":{"context":{}}},"_writableState":{"afterWriteTickInfo":null,"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":0,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":false,"alpnProtocol":false,"authorizationError":"DEPTH_ZERO_SELF_SIGNED_CERT","authorized":false,"connecting":false,"encrypted":true,"secureConnecting":false,"servername":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","ssl":{"_parent":{"onconnection":null,"reading":true},"_parentWrap":{"_events":{"error":[null,null]},"_eventsCount":4,"_hadError":false,"_host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","_parent":null,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":true,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":null,"_sockname":null,"_writableState":{"afterWriteTickInfo":null,"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":0,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":false,"connecting":false,"server":null},"_secureContext":{"context":{}},"reading":true}}},"connectionParameters":{"binary":false,"client_encoding":"","connect_timeout":0,"database":"de7k80budpklhf","host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","idle_in_transaction_session_timeout":false,"isDomainSocket":false,"lock_timeout":false,"port":5432,"query_timeout":false,"ssl":{"rejectUnauthorized":false},"statement_timeout":false,"user":"tescrabnvuiapv"},"database":"de7k80budpklhf","hasExecuted":true,"host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","port":5432,"processID":16981,"queryQueue":[],"readyForQuery":true,"secretKey":-691986630,"ssl":{"rejectUnauthorized":false},"user":"tescrabnvuiapv"},"timestamp":1665797114078}]},"valueForUndefined":"[Circular]","version":"14.5"},"sql":"DEFAULT"},"version":"14.5"}}}
+{"level":"info","message":"Registration attempt failed - Email a@a.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":{"_asColumnFlag":false,"_boolFlag":"and","_events":{},"_eventsCount":0,"_joinFlag":"inner","_method":"select","_notFlag":false,"_single":{"only":false,"returning":"*","table":"users"},"_statements":[{"grouping":"columns","value":["*"]},{"asColumn":false,"bool":"and","column":"email","grouping":"where","not":false,"operator":"=","type":"whereBasic","value":"a@a.com"}],"and":"[Circular]","client":{"_events":{"query":[null,null],"query-error":[null,null],"query-response":[null,null],"start":[null,null]},"_eventsCount":4,"config":{"client":"pg","connection":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}}},"connectionSettings":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}},"driver":{"_pools":[],"defaults":{"binary":false,"client_encoding":"","connect_timeout":0,"host":"localhost","idleTimeoutMillis":30000,"idle_in_transaction_session_timeout":false,"keepalives":1,"keepalives_idle":0,"lock_timeout":false,"max":10,"parseInputDatesAsUTC":false,"password":null,"port":5432,"query_timeout":false,"rows":0,"ssl":false,"statement_timeout":false},"types":{"arrayParser":{},"builtins":{"ABSTIME":702,"ACLITEM":1033,"BIT":1560,"BOOL":16,"BPCHAR":1042,"BYTEA":17,"CHAR":18,"CID":29,"CIDR":650,"CIRCLE":718,"DATE":1082,"FLOAT4":700,"FLOAT8":701,"GTSVECTOR":3642,"INET":869,"INT2":21,"INT4":23,"INT8":20,"INTERVAL":1186,"JSON":114,"JSONB":3802,"MACADDR":829,"MACADDR8":774,"MONEY":790,"NUMERIC":1700,"OID":26,"PATH":602,"PG_DEPENDENCIES":3402,"PG_LSN":3220,"PG_NDISTINCT":3361,"PG_NODE_TREE":194,"POLYGON":604,"REFCURSOR":1790,"REGCLASS":2205,"REGCONFIG":3734,"REGDICTIONARY":3769,"REGNAMESPACE":4089,"REGOPER":2203,"REGOPERATOR":2204,"REGPROC":24,"REGPROCEDURE":2202,"REGROLE":4096,"REGTYPE":2206,"RELTIME":703,"SMGR":210,"TEXT":25,"TID":27,"TIME":1083,"TIMESTAMP":1114,"TIMESTAMPTZ":1184,"TIMETZ":1266,"TINTERVAL":704,"TSQUERY":3615,"TSVECTOR":3614,"TXID_SNAPSHOT":2970,"UUID":2950,"VARBIT":1562,"VARCHAR":1043,"XID":28,"XML":142}}},"logger":{"_inspectionDepth":5},"transacting":true,"valueForUndefined":{"_events":{},"_eventsCount":0,"client":{"_events":{},"_eventsCount":4,"config":{"client":"pg","connection":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}}},"connectionConfigExpirationChecker":null,"connectionSettings":{"connectionString":"postgres://tescrabnvuiapv:b34fc520dd257643ea8701864a11520e1af832d0e6d97cf99cd0071decd1bc9f@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/de7k80budpklhf","ssl":{"rejectUnauthorized":false}},"driver":{"_pools":[],"defaults":{"binary":false,"client_encoding":"","connect_timeout":0,"host":"localhost","idleTimeoutMillis":30000,"idle_in_transaction_session_timeout":false,"keepalives":1,"keepalives_idle":0,"lock_timeout":false,"max":10,"parseInputDatesAsUTC":false,"password":null,"port":5432,"query_timeout":false,"rows":0,"ssl":false,"statement_timeout":false},"types":{"arrayParser":{},"builtins":{"ABSTIME":702,"ACLITEM":1033,"BIT":1560,"BOOL":16,"BPCHAR":1042,"BYTEA":17,"CHAR":18,"CID":29,"CIDR":650,"CIRCLE":718,"DATE":1082,"FLOAT4":700,"FLOAT8":701,"GTSVECTOR":3642,"INET":869,"INT2":21,"INT4":23,"INT8":20,"INTERVAL":1186,"JSON":114,"JSONB":3802,"MACADDR":829,"MACADDR8":774,"MONEY":790,"NUMERIC":1700,"OID":26,"PATH":602,"PG_DEPENDENCIES":3402,"PG_LSN":3220,"PG_NDISTINCT":3361,"PG_NODE_TREE":194,"POLYGON":604,"REFCURSOR":1790,"REGCLASS":2205,"REGCONFIG":3734,"REGDICTIONARY":3769,"REGNAMESPACE":4089,"REGOPER":2203,"REGOPERATOR":2204,"REGPROC":24,"REGPROCEDURE":2202,"REGROLE":4096,"REGTYPE":2206,"RELTIME":703,"SMGR":210,"TEXT":25,"TID":27,"TIME":1083,"TIMESTAMP":1114,"TIMESTAMPTZ":1184,"TIMETZ":1266,"TINTERVAL":704,"TSQUERY":3615,"TSVECTOR":3614,"TXID_SNAPSHOT":2970,"UUID":2950,"VARBIT":1562,"VARCHAR":1043,"XID":28,"XML":142}}},"logger":{"_inspectionDepth":5},"pool":{"acquireTimeoutMillis":60000,"createRetryIntervalMillis":200,"createTimeoutMillis":30000,"destroyTimeoutMillis":5000,"destroyed":false,"emitter":{"_events":{},"_eventsCount":0},"eventId":3,"free":[],"idleTimeoutMillis":30000,"interval":{"_destroyed":false,"_idleNext":{"_idleNext":"[Circular]","_idlePrev":"[Circular]","expiry":16228,"id":-9007199254740987,"msecs":1000,"priorityQueuePosition":2},"_idlePrev":{"_idleNext":"[Circular]","_idlePrev":"[Circular]","expiry":16228,"id":-9007199254740987,"msecs":1000,"priorityQueuePosition":2},"_idleStart":15228,"_idleTimeout":1000,"_repeat":1000},"max":10,"min":2,"pendingAcquires":[],"pendingCreates":[],"pendingDestroys":[],"pendingValidations":[],"propagateCreateError":true,"reapIntervalMillis":1000,"used":[{"deferred":{"promise":{}},"resource":{"__knexTxId":"trx1","__knexUid":"__knexUid2","_connected":true,"_connecting":false,"_connectionCallback":null,"_connectionError":false,"_connectionTimeoutMillis":0,"_ending":false,"_events":{},"_eventsCount":2,"_queryable":true,"_types":{"_types":{"arrayParser":{},"builtins":{"ABSTIME":702,"ACLITEM":1033,"BIT":1560,"BOOL":16,"BPCHAR":1042,"BYTEA":17,"CHAR":18,"CID":29,"CIDR":650,"CIRCLE":718,"DATE":1082,"FLOAT4":700,"FLOAT8":701,"GTSVECTOR":3642,"INET":869,"INT2":21,"INT4":23,"INT8":20,"INTERVAL":1186,"JSON":114,"JSONB":3802,"MACADDR":829,"MACADDR8":774,"MONEY":790,"NUMERIC":1700,"OID":26,"PATH":602,"PG_DEPENDENCIES":3402,"PG_LSN":3220,"PG_NDISTINCT":3361,"PG_NODE_TREE":194,"POLYGON":604,"REFCURSOR":1790,"REGCLASS":2205,"REGCONFIG":3734,"REGDICTIONARY":3769,"REGNAMESPACE":4089,"REGOPER":2203,"REGOPERATOR":2204,"REGPROC":24,"REGPROCEDURE":2202,"REGROLE":4096,"REGTYPE":2206,"RELTIME":703,"SMGR":210,"TEXT":25,"TID":27,"TIME":1083,"TIMESTAMP":1114,"TIMESTAMPTZ":1184,"TIMETZ":1266,"TINTERVAL":704,"TSQUERY":3615,"TSVECTOR":3614,"TXID_SNAPSHOT":2970,"UUID":2950,"VARBIT":1562,"VARCHAR":1043,"XID":28,"XML":142}},"binary":{},"text":{}},"activeQuery":null,"binary":false,"connection":{"_connecting":true,"_emitMessage":false,"_ending":false,"_events":{},"_eventsCount":23,"_keepAlive":false,"_keepAliveInitialDelayMillis":0,"lastBuffer":false,"parsedStatements":{},"ssl":{"rejectUnauthorized":false},"stream":{"_SNICallback":null,"_controlReleased":true,"_events":{"end":[null,null,null],"newListener":[null,null]},"_eventsCount":6,"_hadError":false,"_host":null,"_newSessionPending":false,"_parent":{"_events":{"error":[null,null]},"_eventsCount":4,"_hadError":false,"_host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","_parent":null,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":true,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":null,"_sockname":null,"_writableState":{"afterWriteTickInfo":null,"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":0,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":false,"connecting":false,"server":null},"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":true,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_rejectUnauthorized":false,"_requestCert":true,"_secureEstablished":true,"_securePending":false,"_server":null,"_sockname":null,"_tlsOptions":{"isServer":false,"pipe":false,"rejectUnauthorized":false,"requestCert":true,"secureContext":{"context":{}}},"_writableState":{"afterWriteTickInfo":null,"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":0,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":false,"alpnProtocol":false,"authorizationError":"DEPTH_ZERO_SELF_SIGNED_CERT","authorized":false,"connecting":false,"encrypted":true,"secureConnecting":false,"servername":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","ssl":{"_parent":{"onconnection":null,"reading":true},"_parentWrap":{"_events":{"error":[null,null]},"_eventsCount":4,"_hadError":false,"_host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","_parent":null,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":true,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":null,"_sockname":null,"_writableState":{"afterWriteTickInfo":null,"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":0,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":false,"connecting":false,"server":null},"_secureContext":{"context":{}},"reading":true}}},"connectionParameters":{"binary":false,"client_encoding":"","connect_timeout":0,"database":"de7k80budpklhf","host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","idle_in_transaction_session_timeout":false,"isDomainSocket":false,"lock_timeout":false,"port":5432,"query_timeout":false,"ssl":{"rejectUnauthorized":false},"statement_timeout":false,"user":"tescrabnvuiapv"},"database":"de7k80budpklhf","hasExecuted":true,"host":"ec2-34-247-172-149.eu-west-1.compute.amazonaws.com","port":5432,"processID":18524,"queryQueue":[],"readyForQuery":true,"secretKey":1922610017,"ssl":{"rejectUnauthorized":false},"user":"tescrabnvuiapv"},"timestamp":1665797249073}]},"valueForUndefined":"[Circular]","version":"14.5"},"sql":"DEFAULT"},"version":"14.5"}}}
+{"level":"info","message":"Registration attempt failed - Email a@a.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":{}}
+{"level":"info","message":"Registration attempt failed - Email a@a.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":{}}
+{"level":"info","message":"Registration attempt failed - Email a@a.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"data = [object Object]"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"x = [object Promise]"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"x = [object Promise]"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"Registration attempt failed - Email test@4.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"Registration attempt failed - Email test@6.com already exists"}
+{"level":"info","message":"Registration attempt failed - Email test@6.com already exists"}
+{"level":"info","message":"Registration attempt failed - Email test@7.com already exists"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"data = [object Object]"}
+{"level":"info","message":"data[0] = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImlAbS5jb20iLCJpYXQiOjE2NjU4NDY0NjgsImV4cCI6MTY2NjAxOTI2OH0.slr__xtuBmoNud-wDCJgukyt7w7xKT6PlwhBZmKnfKY"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYWNrQGplc3VzLmNvbSIsImlhdCI6MTY2NTg0NjY0MiwiZXhwIjoxNjY2MDE5NDQyfQ.reCYMel2kALjCfn34cIDQgCzfeiCdZODh-8Mrq-3hVY"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYWNrQGplc3VzLm5ldCIsImlhdCI6MTY2NTg0Njg3OCwiZXhwIjoxNjY2MDE5Njc4fQ.xewQELbQbUsItshPJy3IkswQ5NBHKBzkYrMT72tIiBU"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"New session object = [object Promise]"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYWNrQGplc3VzLm9yZyIsImlhdCI6MTY2NTg0Njk5MSwiZXhwIjoxNjY2MDE5NzkxfQ.dflWwUCB92wKfDs0J66dvSwDnH-bRQmDL6QtWFAAxP8"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYWNrQGplc3VzLmNvLnVrIiwiaWF0IjoxNjY1ODQ3MTEzLCJleHAiOjE2NjYwMTk5MTN9.xuJwZwcVd8hpBe87SkOQvGgJpXkKGu3Q_ujOQQIWG6s"}
+{"level":"info","message":"New session object = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 25 - email kk@k.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtrQGsuY29tIiwiaWF0IjoxNjY1ODQ3MjEwLCJleHAiOjE2NjYwMjAwMTB9.W_7tkXIdUAr6Tyg4n1mWAETQD6AOU9Mq0k2VQU6knfA"}
+{"level":"info","message":"New session object = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 26 - email kk@k.co.uk"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtrQGsuY28udWsiLCJpYXQiOjE2NjU4NDczMjIsImV4cCI6MTY2NjAyMDEyMn0.cvVMGpy3OJmxTPWuKvBQ_AdkSYgs6bqcsD7igiETakk"}
+{"level":"error","message":"error - ReferenceError: res is not defined"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"error","message":"Registration failed - error details: error: insert into \"logins\" (\"email\", \"hash\") values ($1, $2) returning \"email\" - duplicate key value violates unique constraint \"logins_email_key\""}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 27 - email blaq@jesus.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYXFAamVzdXMuY29tIiwiaWF0IjoxNjY1ODQ3NDA5LCJleHAiOjE2NjYwMjAyMDl9.U3S-XGxJnCjWckCaxUeADpirIDl3bFOvDphZ2vILcN0"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 28 - email blaqqq@jesus.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYXFxcUBqZXN1cy5jb20iLCJpYXQiOjE2NjU4NDc0OTAsImV4cCI6MTY2NjAyMDI5MH0.rkaVsuCVBiJ4lZpmU1DFsD2QpqMOrmkEwwozCs1x7Kc"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 29 - email blakkk@jesus.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJsYWtra0BqZXN1cy5jb20iLCJpYXQiOjE2NjU4NDc2MDUsImV4cCI6MTY2NjAyMDQwNX0.iFRFoROkKo-YjbHjLAaBmkJw4Zwcz43XQ3irTD4Apc0"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 30 - email santa@clause.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbnRhQGNsYXVzZS5jb20iLCJpYXQiOjE2NjU4NDc5MDcsImV4cCI6MTY2NjAyMDcwN30.xbIVcoXMf2nnMCeCcSXv4iJAbXishMUXRdeJQoC5nwM"}
+{"level":"info","message":"Successfully fetched profile for user id 30"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 31 - email kendrick@lamar.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtlbmRyaWNrQGxhbWFyLmNvbSIsImlhdCI6MTY2NTg0ODAwNSwiZXhwIjoxNjY2MDIwODA1fQ.WHZz069TKMjZl2Sgmxbx4K2F8u-ObJBqI2Xof_G1WqE"}
+{"level":"info","message":"Successfully fetched profile for user id 31"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 32 - email bigrudolf@reindeergang.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MDgxLCJleHAiOjE2NjYwMjA4ODF9.V_BSh8K2wsP5UNKXkDBzNTP1GDcLONpwgCR2x9Yhxk0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg0ODE1NywiZXhwIjoxNjY2MDIwOTU3fQ.lpHCF74WVwU0UHvzgMJmeYKPXMZo61BarR1tRCKNtrQ"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg0ODIwMywiZXhwIjoxNjY2MDIxMDAzfQ.BGFXWrQ6D0aSJHmC1MN68dYvcL1agHaJLghBFkTYe4I"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJpZ3J1ZG9sZkByZWluZGVlcmdhbmcuY29tIiwiaWF0IjoxNjY1ODQ4MjI3LCJleHAiOjE2NjYwMjEwMjd9.BtVlAieVOigoveCncHvPq4mWqAXOY7tKDvoCJTPF4dc"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"Successfully fetched profile for user id 32"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1MDIxNSwiZXhwIjoxNjY2MDIzMDE1fQ.vc5DEdme4TnQZzGxqbnaEAZovmowaJd7Tndidb8m_PY"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1MDM3OSwiZXhwIjoxNjY2MDIzMTc5fQ.9brSd4XEg7Xi3VuCAmBjI8zjaL9vulNsnWvH5A6sE5s"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1MDcwNiwiZXhwIjoxNjY2MDIzNTA2fQ.kOtDqi84UO9gLsCu3mSFR1EfihHveZnBpSIZk1MtRmo"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1MDgwOSwiZXhwIjoxNjY2MDIzNjA5fQ.AxGG5kj8qg6ksSRsSBy3J_AVSyaKOF-c_hbiMGg2DBs"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session undefined"}
+{"level":"info","message":"auth token = undefined"}
+{"level":"info","message":"session [object Object]"}
+{"level":"info","message":"auth token = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"session [object Object]"}
+{"level":"info","message":"auth token = [object Object]"}
+{"level":"info","message":"session [object Object]"}
+{"level":"info","message":"auth token = [object Object]"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1NzkzMiwiZXhwIjoxNjY2MDMwNzMyfQ.pV2ib5jjsSl133XtGiUU99kbeO0S62dn7OWi7kjbSVw"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"connected to redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODA4MiwiZXhwIjoxNjY2MDMwODgyfQ.UXCCZNMzcvl8RIOJm-saJETpzMNVh3Yu4uDH3qRQlhg"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODIyNiwiZXhwIjoxNjY2MDMxMDI2fQ.8FQUeGNyZVV-5VP0Ic_IWvackrFPANO9CmLRvGSWLLo"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODIyNiwiZXhwIjoxNjY2MDMxMDI2fQ.8FQUeGNyZVV-5VP0Ic_IWvackrFPANO9CmLRvGSWLLo"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODIyNiwiZXhwIjoxNjY2MDMxMDI2fQ.8FQUeGNyZVV-5VP0Ic_IWvackrFPANO9CmLRvGSWLLo"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODMyOSwiZXhwIjoxNjY2MDMxMTI5fQ.Di2FTrytobhoeAsxFrqntdkBZN3hv69Vvi2NIVe1FIA"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODMyOSwiZXhwIjoxNjY2MDMxMTI5fQ.Di2FTrytobhoeAsxFrqntdkBZN3hv69Vvi2NIVe1FIA"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODMyOSwiZXhwIjoxNjY2MDMxMTI5fQ.Di2FTrytobhoeAsxFrqntdkBZN3hv69Vvi2NIVe1FIA"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODU5NCwiZXhwIjoxNjY2MDMxMzk0fQ.nffyzo_TniDGV0dIWkbndSmi3zu34rABLwQfy7MssUw"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODU5NCwiZXhwIjoxNjY2MDMxMzk0fQ.nffyzo_TniDGV0dIWkbndSmi3zu34rABLwQfy7MssUw"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODU5NCwiZXhwIjoxNjY2MDMxMzk0fQ.nffyzo_TniDGV0dIWkbndSmi3zu34rABLwQfy7MssUw"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODc4MSwiZXhwIjoxNjY2MDMxNTgxfQ.142-jcoWXn9ZuV5mjjxJ1yqA0PkGjfY1EHqndMNOi7c"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODc4MSwiZXhwIjoxNjY2MDMxNTgxfQ.142-jcoWXn9ZuV5mjjxJ1yqA0PkGjfY1EHqndMNOi7c"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTg1ODc4MSwiZXhwIjoxNjY2MDMxNTgxfQ.142-jcoWXn9ZuV5mjjxJ1yqA0PkGjfY1EHqndMNOi7c"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 3 entries count - 22"}
