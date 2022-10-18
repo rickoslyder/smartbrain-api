@@ -664,3 +664,313 @@
 {"level":"info","message":"Successfully fetched profile for user id 3"}
 {"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
 {"level":"info","message":"Successfully updated user id 3 entries count - 22"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1MzAxOCwiZXhwIjoxNjY2MTI1ODE4fQ.wHgJnad7Tt66BbRXUPTeSzo9v_Yzrwy1cF1cU7BYVoE"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1MzEyOSwiZXhwIjoxNjY2MTI1OTI5fQ.P1IzPSDFlulAMA9Aucwhsrf03xWIebxlyydDRBbeoow"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1Mzg1NCwiZXhwIjoxNjY2MTI2NjU0fQ.W9hAeDSOD1XtWRSyNWq8PLYQgI_XCa5jxWcRnoc9M1U"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1MzkwOSwiZXhwIjoxNjY2MTI2NzA5fQ.qJIHz5Z88gPZGeeLKRTuPObbtELkJUG93emhZ-LuMQw"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDAzNywiZXhwIjoxNjY2MTI2ODM3fQ.pZqAQ1RHieAtmsza2v4QzuCuJ6JRbIZuFgNSAcqsN28"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk1NDYzMSwiZXhwIjoxNjY2MTI3NDMxfQ.l0k-lbOtxfRe3wWJkkK4X4FjCuTdDFlqVKOnac81eF0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"loginEmail = [object Object]"}
+{"level":"info","message":"New user object = [object Object]"}
+{"level":"info","message":"creating token for user id 33 - email dave@dave.com"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRhdmVAZGF2ZS5jb20iLCJpYXQiOjE2NjU5NjE4MDMsImV4cCI6MTY2NjEzNDYwM30.kzaH791vcde7F9b0qtZU1H2WcQfZLFeRFFUpHw8wZ98"}
+{"level":"info","message":"Successfully fetched profile for user id 33"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 1"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 2"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 3"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 4"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 5"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 6"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 7"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 8"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 9"}
+{"level":"info","message":"Face detected - image url = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZyAmYhI70oX9zqQw1mb9mS460JzEjU4uKQ&usqp=CAU"}
+{"level":"info","message":"Successfully updated user id 33 entries count - 10"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTY4OSwiZXhwIjoxNjY2MTQ0NDg5fQ.C5pevbiwI8husxW9KhIBL9UwyZkJCWrP2u07hCObLb0"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTY4OSwiZXhwIjoxNjY2MTQ0NDg5fQ.C5pevbiwI8husxW9KhIBL9UwyZkJCWrP2u07hCObLb0"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTY4OSwiZXhwIjoxNjY2MTQ0NDg5fQ.C5pevbiwI8husxW9KhIBL9UwyZkJCWrP2u07hCObLb0"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTgzNywiZXhwIjoxNjY2MTQ0NjM3fQ.zqIb_LFUbkwepcOhqVzzHvDdQS2kaYdu1US_Cw1qkJU"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTgzNywiZXhwIjoxNjY2MTQ0NjM3fQ.zqIb_LFUbkwepcOhqVzzHvDdQS2kaYdu1US_Cw1qkJU"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTgzNywiZXhwIjoxNjY2MTQ0NjM3fQ.zqIb_LFUbkwepcOhqVzzHvDdQS2kaYdu1US_Cw1qkJU"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTg4MywiZXhwIjoxNjY2MTQ0NjgzfQ.4tG7TbV0oyIHZ1gK3_WmG5ObOKtjqRaJsr3XYzPHXDM"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTg4MywiZXhwIjoxNjY2MTQ0NjgzfQ.4tG7TbV0oyIHZ1gK3_WmG5ObOKtjqRaJsr3XYzPHXDM"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MTg4MywiZXhwIjoxNjY2MTQ0NjgzfQ.4tG7TbV0oyIHZ1gK3_WmG5ObOKtjqRaJsr3XYzPHXDM"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MjAyNiwiZXhwIjoxNjY2MTQ0ODI2fQ.B2vL-Mu0MlklFeer5otFeBnghRvTfyWxC3HlE_TXEjs"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MjAyNiwiZXhwIjoxNjY2MTQ0ODI2fQ.B2vL-Mu0MlklFeer5otFeBnghRvTfyWxC3HlE_TXEjs"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MjAyNiwiZXhwIjoxNjY2MTQ0ODI2fQ.B2vL-Mu0MlklFeer5otFeBnghRvTfyWxC3HlE_TXEjs"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MzkwNywiZXhwIjoxNjY2MTQ2NzA3fQ.joDFkBGIVUEKakkbZIT6rO9MZShAIljkmGlTSplx-vg"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MzkwNywiZXhwIjoxNjY2MTQ2NzA3fQ.joDFkBGIVUEKakkbZIT6rO9MZShAIljkmGlTSplx-vg"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk3MzkwNywiZXhwIjoxNjY2MTQ2NzA3fQ.joDFkBGIVUEKakkbZIT6rO9MZShAIljkmGlTSplx-vg"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTk5NTQ3NywiZXhwIjoxNjY2MTY4Mjc3fQ.Pv983yMHiMaNqUytjOTP5oqsIsvwsd87kbMgJN40jbg"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAwMDA1NiwiZXhwIjoxNjY2MTcyODU2fQ.WZmv7lMQflYL1CYsuIRXJ3cHrLpSNARRAUvWh6_X96Q"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NTc5MjA4NCwiZXhwIjoxNjY1OTY0ODg0fQ.71hxc_YwXyL0Mgqjc25LhFAOiQLJltUK_5zfBcY3ahE"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAwMDc0NiwiZXhwIjoxNjY2MTczNTQ2fQ.vw6YFJ2odOXcqQE95EmI4AT4RN8vq6RraRzkpWurLco"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAwMTUzOSwiZXhwIjoxNjY2MTc0MzM5fQ.G3NkmvWtsa8ryWhTdIMB2wfSqc97gjIN1DYq_rbkeAM"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxMjk4NCwiZXhwIjoxNjY2MTg1Nzg0fQ.nlFG33lfkTvpneWP0nLfAARWUP3A15E_oZ20BRM98z0"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxMzExNywiZXhwIjoxNjY2MTg1OTE3fQ.AbjF6SNYTNbJovIuiAddfcHxEn1PSJ2edOFK2hMhETM"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNDE3NiwiZXhwIjoxNjY2MTg2OTc2fQ.of8X9-CbX3454l0c7eAILxeK3AImMTg87IyPV2aoa8w"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNDQ5OCwiZXhwIjoxNjY2MTg3Mjk4fQ.m8O8frfgT6AZvsXyj6fydzVn4Gg8DHV8Xv2gdY_KI2A"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNDY4NCwiZXhwIjoxNjY2MTg3NDg0fQ.zU5eEGy6Bh8g0ADwkJUHseEOeUZ0KnTIsfbqXRpV-Ao"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNDY4NCwiZXhwIjoxNjY2MTg3NDg0fQ.zU5eEGy6Bh8g0ADwkJUHseEOeUZ0KnTIsfbqXRpV-Ao"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNDY4NCwiZXhwIjoxNjY2MTg3NDg0fQ.zU5eEGy6Bh8g0ADwkJUHseEOeUZ0KnTIsfbqXRpV-Ao"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNTU5NywiZXhwIjoxNjY2MTg4Mzk3fQ.ArXyNA_L-jb4AO17StNq6txw9RMqgdYsJYTqcEALdY8"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNjAyMCwiZXhwIjoxNjY2MTg4ODIwfQ.UbmwUdhljeRzxmSD9tfvH_OVfFLHTe9Efdt5eVzXo_A"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNjEzOSwiZXhwIjoxNjY2MTg4OTM5fQ.T6XABWZAiGeZsbqeIA4BQLroOV2OgyNmhjlMjZUsGgQ"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNjIwMywiZXhwIjoxNjY2MTg5MDAzfQ.NeDfS_1-L_vmkZOy0zpMRFBXYfo8Gl6g-ZIwGqyOsF4"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxNjM5OCwiZXhwIjoxNjY2MTg5MTk4fQ.UGDExCtT3rePQ4bpjGumL-sxbO1dGve02kVIiGchmNY"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAxOTMwNSwiZXhwIjoxNjY2MTkyMTA1fQ.Ge2cyWiMe2-jUqI8q7UuM6DPbf5dFUvEEo2DXbUTnNg"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyMTE1OSwiZXhwIjoxNjY2MTkzOTU5fQ.1a14EODTk9pooeq0VH46o5JuppJQMmIzzi6VynSIv7M"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyMTQ5MSwiZXhwIjoxNjY2MTk0MjkxfQ.bpk2NLhi7kw4VpwkgtkfOkrojgGrhP_QlByU8BdOkx8"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNjU4MCwiZXhwIjoxNjY2MTk5MzgwfQ.oCo_ojOJHOMmUzDxe2gZzwhF6UKGnkCvkhjR3g0Hy1M"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNjU4MCwiZXhwIjoxNjY2MTk5MzgwfQ.oCo_ojOJHOMmUzDxe2gZzwhF6UKGnkCvkhjR3g0Hy1M"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNjU4MCwiZXhwIjoxNjY2MTk5MzgwfQ.oCo_ojOJHOMmUzDxe2gZzwhF6UKGnkCvkhjR3g0Hy1M"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNjczMiwiZXhwIjoxNjY2MTk5NTMyfQ.IlehqPCVtM2dsRdbZDy4-ZRoPqbB2ACOcOD_LllOTJs"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNjczMiwiZXhwIjoxNjY2MTk5NTMyfQ.IlehqPCVtM2dsRdbZDy4-ZRoPqbB2ACOcOD_LllOTJs"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNjczMiwiZXhwIjoxNjY2MTk5NTMyfQ.IlehqPCVtM2dsRdbZDy4-ZRoPqbB2ACOcOD_LllOTJs"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzEzNSwiZXhwIjoxNjY2MTk5OTM1fQ.GT43TnttMK40J8CRFctWnbTqaDET2X0f6bIoi31IK7g"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzEzNSwiZXhwIjoxNjY2MTk5OTM1fQ.GT43TnttMK40J8CRFctWnbTqaDET2X0f6bIoi31IK7g"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzEzNSwiZXhwIjoxNjY2MTk5OTM1fQ.GT43TnttMK40J8CRFctWnbTqaDET2X0f6bIoi31IK7g"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzM5NCwiZXhwIjoxNjY2MjAwMTk0fQ.N1Z2ohGNCLrOpXCGp5knH0D0K2IkA_8QlEP3Y1oS3mk"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzM5NCwiZXhwIjoxNjY2MjAwMTk0fQ.N1Z2ohGNCLrOpXCGp5knH0D0K2IkA_8QlEP3Y1oS3mk"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzM5NCwiZXhwIjoxNjY2MjAwMTk0fQ.N1Z2ohGNCLrOpXCGp5knH0D0K2IkA_8QlEP3Y1oS3mk"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzUzNiwiZXhwIjoxNjY2MjAwMzM2fQ.kb4vpBerg34ZVvoOCJfsJkPhj5OfDbAegHAHRWBGh4w"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzg2NiwiZXhwIjoxNjY2MjAwNjY2fQ.Xrwk4y7L3hn1HHGWW90Ih8BJqh55WvAyG1KTpCLbNwk"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzg2NiwiZXhwIjoxNjY2MjAwNjY2fQ.Xrwk4y7L3hn1HHGWW90Ih8BJqh55WvAyG1KTpCLbNwk"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyNzg2NiwiZXhwIjoxNjY2MjAwNjY2fQ.Xrwk4y7L3hn1HHGWW90Ih8BJqh55WvAyG1KTpCLbNwk"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODA2MCwiZXhwIjoxNjY2MjAwODYwfQ.MCgvNRF8IosM2vZzdvCiCicfj6oc1ISx6Ymh8HgN2ME"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODEzNCwiZXhwIjoxNjY2MjAwOTM0fQ.f1HpfSp0DDQhg6VcsjYFGpcLUOmYIF0346cDI4h7lCY"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODE5NiwiZXhwIjoxNjY2MjAwOTk2fQ.zogQoeQ5Y0xvDAkCdwxNDIvcTL9gbykn9FE0REkouKA"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODE5NiwiZXhwIjoxNjY2MjAwOTk2fQ.zogQoeQ5Y0xvDAkCdwxNDIvcTL9gbykn9FE0REkouKA"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODE5NiwiZXhwIjoxNjY2MjAwOTk2fQ.zogQoeQ5Y0xvDAkCdwxNDIvcTL9gbykn9FE0REkouKA"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODk5NiwiZXhwIjoxNjY2MjAxNzk2fQ.CAKlDdLafbnwY7g7RH8wlSxkYeP8wDHkWYCVpGN-Fxo"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODk5NiwiZXhwIjoxNjY2MjAxNzk2fQ.CAKlDdLafbnwY7g7RH8wlSxkYeP8wDHkWYCVpGN-Fxo"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODk5NiwiZXhwIjoxNjY2MjAxNzk2fQ.CAKlDdLafbnwY7g7RH8wlSxkYeP8wDHkWYCVpGN-Fxo"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"session eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODk5NiwiZXhwIjoxNjY2MjAxNzk2fQ.CAKlDdLafbnwY7g7RH8wlSxkYeP8wDHkWYCVpGN-Fxo"}
+{"level":"info","message":"auth token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAyODk5NiwiZXhwIjoxNjY2MjAxNzk2fQ.CAKlDdLafbnwY7g7RH8wlSxkYeP8wDHkWYCVpGN-Fxo"}
+{"level":"info","message":"grabbed token's id from redis"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAzMTEwNywiZXhwIjoxNjY2MjAzOTA3fQ.n9Y6eB5FLUgAnLcL9UdRdxLo1J0EGP4lvhd9MbOmy9w"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"no existing session"}
+{"level":"info","message":"token created eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpY2tvc2x5ZGVyQGdtYWlsLmNvbSIsImlhdCI6MTY2NjAzMTE1MywiZXhwIjoxNjY2MjAzOTUzfQ.DsxLCo64xKcOKB54prx-KdMjxDJUpwVT_sIum57pSqA"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
+{"level":"info","message":"Successfully updated profile for user id 3"}
+{"level":"info","message":"Successfully fetched profile for user id 3"}
